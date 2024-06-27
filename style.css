@@ -1,0 +1,40 @@
+body{
+
+    background-color: rgb(39, 245, 83);
+    margin:20%;   
+    
+}
+
+img{
+
+    width:100%;
+}
+
+#title{
+   font-size: 50px;
+   text-align: center;
+   text-shadow: 3px 4px white;
+  
+}
+
+#out{
+  
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 4px white;
+  
+
+
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.about{
+
+    background-color: aquamarine;
+    padding: 25px;
+    box-shadow: 5px 10px 18px yellow;
+}
